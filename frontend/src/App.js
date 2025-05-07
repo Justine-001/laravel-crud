@@ -3,6 +3,9 @@ import Home from './pages/Home';
 import Createpost from './pages/Createpost';
 import {Viewpost1, Viewpost} from './pages/Viewpost';
 function App() {
+
+
+  
   return (
     <Router>
       <div className='bg-light'>
