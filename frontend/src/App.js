@@ -5,8 +5,10 @@ import {Viewpost1, Viewpost} from './pages/Viewpost';
 function App() {
 
 
-  
+
   return (
+
+    
     <Router>
       <div className='bg-light'>
         <div className="container">
